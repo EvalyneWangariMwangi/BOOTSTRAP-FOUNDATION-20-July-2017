@@ -37,3 +37,12 @@ border-style: outset;
  border-width: 3px;
  border-color: $bordercolor;
 @include border-radius(10px); }
+
+.footer{
+	background-color:#000;
+	height: 50px;
+	p{
+		color:white;
+		text-align:center;
+	}
+}

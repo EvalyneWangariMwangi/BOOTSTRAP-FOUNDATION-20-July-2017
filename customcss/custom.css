@@ -23,4 +23,11 @@
   -ms-border-radius: 10px;
   border-radius: 10px; }
 
+.footer {
+  background-color: #000;
+  height: 50px; }
+  .footer p {
+    color: white;
+    text-align: center; }
+
 /*# sourceMappingURL=custom.css.map */
